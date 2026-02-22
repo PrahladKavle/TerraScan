@@ -1,0 +1,30 @@
+# PlatformIO
+.pio/
+.build/
+libdeps/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Credentials (VERY IMPORTANT)
+config.h
+secrets.h
+credentials.h
+
+# Compiled files
+*.bin
+*.elf
+*.map
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
